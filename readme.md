@@ -67,36 +67,50 @@ Vamos construir uma página spa, responsiva, para usar em diversos tipos de micr
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
-
-- _Exemplo_:
-
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
-
-- [Outros pré-requisitos, se aplicável]
-
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+- Lógica de programação — Básico
+- HTML5 — Básico
+- CSS3 — Básico
+- JavaScript — Intermediário
+- Framework SPA (React, Vue ou Angular) — Intermediário
+- Git/GitHub — Básico
+- Responsividade (Media Queries, Flexbox, Grid) — Intermediário
+- Consumo de APIs REST — Básico
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
+### - Desenvolvimento Web Responsivo
+- Uso de Flexbox e CSS Grid
+- Design Mobile-First
+### - Construção de SPAs
+- Roteamento interno (React Router, Vue Router)
+- Componentização
+### - Integração com APIs
+- Consumo de dados externos
+- Manipulação de JSON
+### - Boas Práticas de Desenvolvimento
+- Versionamento com Git
+- Estruturação de projetos escaláveis
+### - UI/UX
+- Design acessível
+- Experiência do usuário otimizada
 
 ## 🎯 Objetivos e Resultados Esperados
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Após a conclusão do curso/projeto, os estudantes serão capazes de:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+Construir uma SPA responsiva aplicável a diferentes tipos de empresas
+- Implementar componentes reutilizáveis e navegação dinâmica
+- Integrar a aplicação com APIs REST para dados dinâmicos
+- Aplicar boas práticas de UI/UX em projetos reais
+- Publicar a aplicação em plataformas como GitHub Pages, Vercel ou Netlify
+- 
+### Projetos/Soluções que poderão ser construídos:
+
+- Landing pages empresariais responsivas
+- Portais simples de serviços para pequenas empresas
+- Aplicações de catálogo de produtos com integração a APIs
+- Sites institucionais com depoimentos e formulários de contato
+
 
 <!--START_SECTION:footer-->
 
