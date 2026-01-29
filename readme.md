@@ -98,12 +98,12 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 Após a conclusão do curso/projeto, os estudantes serão capazes de:
 
-Construir uma SPA responsiva aplicável a diferentes tipos de empresas
+- Construir uma SPA responsiva aplicável a diferentes tipos de empresas
 - Implementar componentes reutilizáveis e navegação dinâmica
 - Integrar a aplicação com APIs REST para dados dinâmicos
 - Aplicar boas práticas de UI/UX em projetos reais
 - Publicar a aplicação em plataformas como GitHub Pages, Vercel ou Netlify
-- 
+
 ### Projetos/Soluções que poderão ser construídos:
 
 - Landing pages empresariais responsivas
