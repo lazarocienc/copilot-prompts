@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Página SPA Responsiva para MPME</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -58,10 +58,6 @@
 
 <br/>
 <br/>
-
-## 💻 Sobre o Projeto
-
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
